@@ -4,7 +4,7 @@ from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
-from model import predict_review  # Import prediction function from model.py
+from backend.model import predict_review  # Import prediction function from model.py
 
 # -------------------------
 # Initialize FastAPI
@@ -48,4 +48,5 @@ def predict(review: Review):
 # Serve Frontend (Static Files)
 # -------------------------
 # Mount static frontend AFTER API routes
+
 app.mount("/", StaticFiles(directory="../frontend", html=True), name="frontend")
