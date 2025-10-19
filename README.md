@@ -33,18 +33,3 @@ Users can submit their reviews through a sleek frontend and instantly see AI-dri
 | Deployment | Render / Localhost |
 
 ---
-
-## 📁 Folder Structure
-
-medicine-review-sentiment-analyzer/
-│
-├── backend/
-│ ├── main.py # FastAPI app
-│ ├── model.pkl # Trained BERT model
-│ ├── tokenizer/ # Tokenizer folder (from Hugging Face)
-│ ├── requirements.txt # Python dependencies
-│
-├── frontend/
-│ └── index.html # User interface
-│
-├── README.md
