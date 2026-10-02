@@ -15,7 +15,7 @@ Users can submit their reviews through a sleek frontend and instantly see AI-dri
 
 This was one of my first projects exploring **Machine Learning and NLP**. I experimented with approaches such as **SVM, ANN, and other ML techniques**, gradually moving toward **BERT and multi-task learning**.
 
-The current repository represents the **final implementation I reached through that experimentation and learning process**.
+The current repository represents the final implementation I reached through that experimentation and learning process.
 ---
 
 ## 🚀 Features
