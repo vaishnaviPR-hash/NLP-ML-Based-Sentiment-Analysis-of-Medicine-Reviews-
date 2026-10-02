@@ -11,6 +11,12 @@ It predicts the sentiment for four aspects of each review:
 Users can submit their reviews through a sleek frontend and instantly see AI-driven analysis of their experience.
 
 ---
+## 🌱 My First NLP & Machine Learning Project
+
+This was one of my first projects exploring **Machine Learning and NLP**. I experimented with approaches such as **SVM, ANN, and other ML techniques**, gradually moving toward **BERT and multi-task learning**.
+
+The current repository represents the **final implementation I reached through that experimentation and learning process**.
+---
 
 ## 🚀 Features
 
